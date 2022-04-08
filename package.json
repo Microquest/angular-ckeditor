@@ -1,6 +1,6 @@
 {
   "name": "angular-ckeditor",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "CKEditor directive for Angular.",
   "main": "angular-ckeditor.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/lemonde/angular-ckeditor.git"
+    "url": "https://github.com/Microquest/angular-ckeditor"
   },
   "keywords": [
     "angular",
@@ -23,18 +23,18 @@
   },
   "homepage": "https://github.com/lemonde/angular-ckeditor",
   "devDependencies": {
-    "bower": "~1.7.2",
-    "chai": "~3.4.1",
-    "chai-jquery": "~2.0.0",
-    "grunt": "~0.4.4",
-    "grunt-contrib-uglify": "~0.11.0",
-    "karma": "~0.13.18",
-    "karma-chrome-launcher": "~0.2.2",
-    "karma-firefox-launcher": "~0.1.7",
-    "karma-mocha": "~0.2.1",
-    "mocha": "~2.3.4",
-    "sinon": "~1.17.2",
-    "sinon-chai": "~2.8",
-    "underscore.string": "~3.2.2"
+    "bower": "^1.8.14",
+    "chai": "^4.3.6",
+    "chai-jquery": "^2.1.0",
+    "grunt": "^1.4.1",
+    "grunt-contrib-uglify": "^5.1.0",
+    "karma": "^6.3.17",
+    "karma-chrome-launcher": "^3.1.1",
+    "karma-firefox-launcher": "^2.1.2",
+    "karma-mocha": "^2.0.1",
+    "mocha": "^9.2.2",
+    "sinon": "^13.0.1",
+    "sinon-chai": "^3.7.0",
+    "underscore.string": "^3.3.6"
   }
 }
